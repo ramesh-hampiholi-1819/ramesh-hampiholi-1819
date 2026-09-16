@@ -1,119 +1,148 @@
 # Ramesh Hampiholi
 
-**BCA Student | Full-Stack Developer | Python Learner**
+### BCA Student | Full-Stack Developer | Software Development
 
-I am a Bachelor of Computer Applications student focused on software development, full-stack web development, and modern technologies.
+I am a Bachelor of Computer Applications student passionate about building practical software and learning modern development technologies.
 
-I enjoy building practical applications, learning new technologies, and solving programming problems. Currently, I am strengthening my Python and full-stack development skills through hands-on projects.
+My current focus is full-stack web development, Python, databases, cloud technologies, and problem solving. I enjoy turning ideas into functional applications and continuously improving my development skills through real-world projects.
+
+> Building today. Learning every day. Engineering for tomorrow.
 
 ---
 
 ## About Me
 
-* BCA student focused on software development
-* Currently learning Python
-* Developing skills in full-stack web development
-* Interested in Artificial Intelligence and Cloud Technologies
-* Building practical projects to improve my development skills
-* Long-term goal: build a strong career in the technology industry
+* BCA student with a strong interest in software development
+* Currently strengthening my Python and full-stack development skills
+* Building web applications and software projects
+* Interested in Artificial Intelligence, Data Science, and Cloud Computing
+* Practicing Data Structures and Algorithms
+* Exploring modern development tools and technologies
+* Interested in international opportunities in technology and software engineering
 
 ---
 
-## Current Focus
+## What I'm Working On
 
-* Full-Stack Development
-* Python Programming
-* Data Structures and Algorithms
-* Database Management
-* Cloud Computing
-* Software Engineering
-* Artificial Intelligence
-
----
-
-## Tech Stack
-
-### Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-### Cloud and Backend
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
-
-### Tools and Design
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+```text
+Full-Stack Development     ███████████████░░░  Learning & Building
+Python                     ████████████░░░░░░  Learning
+Data Structures            ██████████░░░░░░░░  Practicing
+Database Development       ████████████░░░░░░  Building
+Cloud Technologies         ████████░░░░░░░░░░  Exploring
+Artificial Intelligence    ██████░░░░░░░░░░░░  Exploring
+```
 
 ---
 
-## Featured Projects
+## Technology Stack
 
-### Full-Stack Web Applications
+### Languages
 
-Developing web applications using modern frontend, backend, database, and cloud technologies.
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge\&logo=c\&logoColor=A8B9CC)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=3776AB)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=nodedotjs\&logoColor=339933)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge\&logo=sqlite\&logoColor=003B57)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge\&logo=firebase\&logoColor=FFCA28)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-111111?style=for-the-badge\&logo=googlecloud\&logoColor=4285F4)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge\&logo=figma\&logoColor=F24E1E)
+![Canva](https://img.shields.io/badge/Canva-111111?style=for-the-badge\&logo=canva\&logoColor=00C4CC)
+
+---
+
+## Selected Projects
 
 ### Attendance Management System
 
-A web-based attendance management platform with role-based access, authentication, and cloud database integration.
+A web-based attendance management platform designed around multiple user roles and centralized attendance management.
+
+**Focus:** Authentication, role-based access, database integration, and cloud services.
+
+---
 
 ### Chess Game with AI Evaluation
 
-A chess application featuring game logic and AI-based position evaluation.
+A chess application combining game functionality with AI-based position evaluation.
 
-### Portfolio Website
-
-A personal developer portfolio showcasing projects, technical skills, experience, and achievements.
+**Focus:** Game logic, algorithms, API integration, and interactive UI.
 
 ---
 
-## GitHub Statistics
+### Developer Portfolio
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAMESH1819-CRYPTO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAMESH1819-CRYPTO&theme=github-dark-blue&hide_border=true" width="49%" />
-</p>
+A personal portfolio designed to showcase my technical skills, projects, development journey, and professional profile.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAMESH1819-CRYPTO&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+**Focus:** Responsive UI, modern web technologies, animations, and deployment.
 
 ---
 
-## Contribution Activity
+### File Sharing Application
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RAMESH1819-CRYPTO\&theme=github-compact\&hide_border=true)
+A web application designed for sharing files through a cloud-based infrastructure.
+
+**Focus:** File handling, authentication, cloud storage, and frontend development.
 
 ---
 
-## Connect With Me
+## Development Philosophy
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ramesh-hampiholi-289519381/)
+```text
+Learn → Build → Break → Debug → Improve → Repeat
+```
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/rameshhampih0li/)
+I believe the fastest way to become a better developer is to build real projects, understand why things break, and solve problems independently.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rameshhampiholi10@gmail.com)
+---
+
+## Currently Learning
+
+```text
+Python
+Data Structures & Algorithms
+Advanced JavaScript
+React
+Backend Development
+Database Design
+Cloud Computing
+Artificial Intelligence
+```
+
+---
+
+## Career Direction
+
+My long-term goal is to become a strong software developer with expertise across full-stack development, artificial intelligence, and data-driven technologies.
+
+I am particularly interested in opportunities that allow me to work on challenging technical problems, build useful products, and continue learning from experienced developers.
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/ramesh-hampiholi-289519381/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge\&logo=instagram\&logoColor=E4405F)](https://www.instagram.com/rameshhampih0li/)
+
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:rameshhampiholi10@gmail.com)
 
 ---
 
@@ -123,4 +152,7 @@ A personal developer portfolio showcasing projects, technical skills, experience
 
 ---
 
-> "First, solve the problem. Then, write the code."
+<p align="center">
+  <b>Ramesh Hampiholi</b><br>
+  Full-Stack Development • Python • Software Engineering
+</p>
