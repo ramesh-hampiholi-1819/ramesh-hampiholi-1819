@@ -124,6 +124,7 @@ Backend Development
 Database Design
 Cloud Computing
 Artificial Intelligence
+Machine Learning using Python
 ```
 
 ---
